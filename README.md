@@ -28,6 +28,21 @@ How to manage multiple data columns in a single Pandas DataFrame.
 ## 📊 Result Preview
 ![Market Comparison Chart](https://github.com/ded-hub/indian-stock-tracker/blob/main/markets_comparison.png)
 
+
+---
+
+## ⚖️ Project 2: Risk vs. Reward Analyzer (Efficient Frontier)
+
+While the first script tracks performance, this script calculates the **Value at Risk (VaR)** and Daily Volatility to determine if the potential returns justify the risk taken. 
+
+**Key Skills Demonstrated:**
+* **Quantitative Finance:** Calculating Daily Returns and Standard Deviation (`std()`).
+* **Advanced Visualization:** Building a Scatter Plot (`plt.scatter`) to map the "Efficient Frontier."
+* **Data Labeling:** Automating chart annotations so each data point is clearly identified.
+
+![Risk Reward Matrix](risk_reward_matrix.png)
+*(X-Axis: Daily Risk/Volatility | Y-Axis: Total Return)*
+
 Author:Suraj Vishwakarma
 Focus:Commerce + Data Analytics
 
