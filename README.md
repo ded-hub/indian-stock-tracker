@@ -26,7 +26,7 @@ The mathematical logic behind Relative Performance Tracking.
 How to manage multiple data columns in a single Pandas DataFrame.
 
 ## 📊 Result Preview
-![Market Comparison Chart](market_cmparison.png)
+![Market Comparison Chart](https://github.com/ded-hub/indian-stock-tracker/blob/main/markets_comparison.png)
 
 Author:Suraj Vishwakarma
 Focus:Commerce + Data Analytics
